@@ -38,5 +38,3 @@ user_name.txt (Text file to read)
 
 user_password.txt (Text file to read)
 - Provide password
-
-Git repository: 
